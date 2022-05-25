@@ -15,5 +15,5 @@ For example, if m = 5, the possible combinations are (1, 4) and (2, 3), therefor
 ## Code and Resources Used
 **Python:** Python 3.8.10 <br/>
 **Packages:** none <br/>
-**Resources:** algorithm inspired by user shivani at geeksforgeeks.org <br\>
+**Resources:** algorithm inspired by user shivani at geeksforgeeks.org <br/>
 (https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
